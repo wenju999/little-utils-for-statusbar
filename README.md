@@ -3,7 +3,7 @@
 
 # 使用效果展示：
 ![沉浸式状态栏效果图](https://user-images.githubusercontent.com/68986693/226783722-66205490-7072-43d8-b60a-c4d3baf4a2da.jpg)
-# 简单使用方法如下：
+# 添加依赖：
 ## build.gradle
 ```
   implementation 'com.github.wenju999:little-utils-for-statusbar:1.0.0'
@@ -29,7 +29,7 @@ dependencyResolutionManagement {
 }
 ```
 -----
-## 使用方法
+## 简单使用方法
 
 ```
   StatusBarUtils.translucent(this)
