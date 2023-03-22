@@ -8,7 +8,6 @@
 ```
   implementation 'com.github.wenju999:little-utils-for-statusbar:1.0.0'
 ```
------
 ## settings.gradle
 ```
 pluginManagement {
